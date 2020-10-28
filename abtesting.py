@@ -297,7 +297,7 @@ def data_to_num_list(s):
 # print(perform_2_sample_t_test(a_t2_list, b_t2_list))
 
 
-"""""""
+""""""
 # t_test 1:
 a_t1_list = data_to_num_list(a1) 
 b_t1_list = data_to_num_list(b1)
